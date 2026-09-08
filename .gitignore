@@ -1,0 +1,10 @@
+.env
+*.log
+node_modules/
+temp/
+secret.txt
+build*
+/build
+*.tmp
+logs/*
+
