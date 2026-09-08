@@ -1,10 +1,19 @@
+# Virtual environment
+venv/
+env/
 .env
-*.log
-node_modules/
-temp/
-secret.txt
-build*
-/build
-*.tmp
-logs/*
 
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+config.ini
+secrets.json
